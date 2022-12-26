@@ -1,0 +1,2 @@
+INSERT INTO person(person_name, person_surname, person_dateofbirth) VALUES ('Ivan ', 'Franko',1856);
+INSERT INTO person(person_name, person_surname, person_dateofbirth) VALUES ('Taras ','Shevchenko',1814);
